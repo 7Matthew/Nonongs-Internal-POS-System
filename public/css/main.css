@@ -1,0 +1,62 @@
+body {
+  /* background-image:url(../images/nonongs-lounge.jpg); */
+  background-color:white;
+  overflow-x: hidden;
+  font-family: 'Roboto Serif', serif;
+  color: black;
+  letter-spacing: 1.5px;
+
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+
+a:hover{
+  color:grey;
+}
+.align-right
+{
+  text-align:center;
+}
+.card
+{
+  border-radius: 5px;
+}
+.no-border
+{
+  border:none;
+}
+.btn-h1
+{
+  margin-left:30%;
+  margin-right:30%;
+}
+
+.btn-Link
+{
+  text-decoration:none;
+}
+#nav-item
+{
+  color:red;
+}
+#login-card
+{
+  box-shadow: 10px 10px lightyellow;
+  border-radius: 5px;
+}
+#header
+{
+  margin-top: 100px;
+  text-shadow: 2px 2px 3px #808080 /*grey shadow*/
+}
+#shadowed-text
+{
+  text-shadow: 2px 2px 3px #808080 /*grey shadow*/
+}
+#left
+{
+  background: url("../images/nonongs-lounge.jpg");
+  background-size: 50%;
+}
